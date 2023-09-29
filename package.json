@@ -1,0 +1,24 @@
+{
+  "name": "basic_setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aledelima/CSIS3380-templates-basic_setup.git"
+  },
+  "author": "Alessandro de Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aledelima/CSIS3380-templates-basic_setup/issues"
+  },
+  "homepage": "https://github.com/aledelima/CSIS3380-templates-basic_setup#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

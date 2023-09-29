@@ -1,0 +1,29 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore npm's log files and lock files
+npm-debug.log*
+yarn-error.log*
+yarn.lock
+
+# Ignore .env files that store environment-specific settings
+.env*
+
+# Ignore VSCode settings and workspace files
+.vscode/
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore Windows-specific files
+Thumbs.db
+
+# Ignore logs and debugging output
+logs/
+*.log
+
+# Ignore OS or editor temporary files
+._*
+
+# Ignore coverage reports (if you're using a code coverage tool)
+coverage/
